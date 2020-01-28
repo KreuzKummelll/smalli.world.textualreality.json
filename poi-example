@@ -1,12 +1,12 @@
 [
     [
         {
-            "name": "Weed",
-            "location": "CA"
+            "name": "Paris",
+            "location": "FR"
         },
         {
-            "name": "Mount Shasta",
-            "location": "CA"
+            "name": "London",
+            "location": "GB"
         }
     ]
 ]
